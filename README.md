@@ -59,8 +59,6 @@ This project is a demo frontend for an RTI (Right to Information) Online Portal,
 
 ---
 
-> ✨ *Ready for further development — including secure login, dashboard features, and backend integration.*
-
 
 
 
